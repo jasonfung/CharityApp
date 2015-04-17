@@ -1,0 +1,44 @@
+    <resources>
+    <string name="app_name">MyCharity</string>
+    <string name="menu_one">Help</string>
+    <string name="menu_two">About</string>
+    <string name="menu_three">Donation History</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="mission">Mission:</string>
+    <string name="salvation">The Salvation Army</string>
+    <string name="aboutMe1">Name: Ka Yee Jason Fung </string>
+    <string name="aboutMe2">Program: Computer Programming and Analysis Co-op</string>
+    <string name="aboutMe3">I study at Seneca College. Below is the logo.</string>
+    <string name="salMission">The Salvation Army exists to share the love of Jesus Christ, meet human needs and be a transforming influence in the communities of our world.</string>
+    <string name="ccsMission">The Canadian Cancer Society is a national, community-based organization of volunteers whose mission is the eradication of cancer and the enhancement of the quality of life of people living with cancer.</string>
+    <string name="worldvisionMission">World Vision is a Christian humanitarian organization dedicated to working with children, families, and their communities worldwide to reach their full potential by tackling the causes of poverty and injustice.</string>
+    <string name="redcrossMission">The Canadian Red Cross mission is to improve the lives of vulnerable people by mobilizing the power of humanity in Canada and around the world.</string>
+    <string name="sickkidsMission">We inspire our communities to invest in health and scientific advances to improve the lives of children and their families in Canada and around the world.</string>
+    <string name="unitedwayMission">United Way Toronto works to meet urgent human needs and improve social conditions by mobilizing the community’s volunteer and financial resources in a common cause of caring.</string>
+    <string name="heartMission">Healthy lives free of heart disease and stroke. Together we will make it happen.</string>
+    <string name="margaretMission">To raise and steward funds to deliver breakthrough research, exemplary teaching, and compassionate care at The Princess Margaret, one of the top 5 cancer research centres in the world.</string>
+    <string name="planMission">Plan is a global movement for change, mobilizing millions of people around the world to support social justice for children in developing countries.</string>
+    <string name="compassioncanada">As one of the world’s leading child development organizations, Compassion partners with the local church in 26 countries to end poverty in the lives of children and their families.</string>
+    <string name="terryMission">To fund innovative cancer research</string>
+    <string name="habitatMission">To mobilize volunteers and community partners in building affordable housing and promoting homeownership as a means to breaking the cycle of poverty.</string>
+    <string name="breastcancerMission">The Canadian Breast Cancer Foundation is Canada\'s leading community-driven breast cancer charity dedicated to funding relevant and innovative research and supporting and advocating for the breast cancer community.</string>
+    <string name="diabetesMission">To lead the fight against diabetes by helping those affected by diabetes to live healthy lives, preventing the onset and consequences of diabetes and discovering a cure.</string>
+    <string name="cfcanadaMission">Our mission is to help people with cystic fibrosis. We fund research towards the goal of a cure or control for cystic fibrosis, support high quality CF care, promote public awareness of cystic fibrosis, and raise and allocate funds for these purposes.</string>
+    <string name="mscanadaMission">To be a leader in finding a cure for multiple sclerosis and enabling people affected by MS to enhance their quality of life.</string>
+    <string name="sunnybrookMission">We secure financial contributions to enable the Hospital to care for our patients and their families when it matters most. In partnership with the University of Toronto, Sunnybrook leads by discovery, innovation, teaching and learning.</string>
+    <string name="mountsinaiMission">Discover and deliver the best patient care, research and education with the heart and values true to our heritage</string>
+    <string name="agaMission">To improve living conditions and opportunities for the poor, without regard to their faith, origin or gender.</string>
+    <string name="warMission">To improve the quality of life for all amputees, encourage child amputees to develop a positive approach to living with amputation through comprehensive support programs, educate amputees with the latest information on artificial limbs and all aspects of amputation, and to provide employment for amputees and raise awareness about issues as diverse as the experiences and abilities of amputees, child safety and Canada\'s military heritage.</string>
+    <string name="timMission">The Tim Horton Children\'s Foundation is dedicated to fostering within our children the quest for a brighter future.</string>
+    <string name="cantireMission">Giving Kids a Sporting Chance and a chance to fulfill their dreams.</string>
+    <string name="foodbankMission">To strengthen communities in Ontario by providing food banks with food, resources, and solutions to address hunger.</string>
+    <string name="wishfoundationMission">The Children\’s Wish Foundation of Canada works with communities across the country to provide children with life threatening illnesses the opportunity to realize their most heartfelt wish. By creating unique, meaningful experiences, Children\'s Wish enhances quality of life for these courageous children and their families.</string>
+    <string name="MADDMission">Mothers Against Drunk Driving mobilizes victims and their allies to establish the public conviction that impaired driving is unacceptable and criminal, in order to promote corresponding public policies, programs and personal responsibility.</string>
+    <string name="WWFMission">To stop the degradation of the planet\'s natural environment and to build a future in which humans live in harmony with nature.</string>
+    <string name="UHFMission">Inspiring generosity for the health of our families, our region and beyond.</string>
+    <string name="MichaelMission">St. Michael\’s Hospital Foundation, through its philanthropic activities, assists St. Michael’s Hospital in attracting the resources required to fulfill and enhance its mission of caring, research and education, as inspired and fostered by the Sisters of St. Joseph.</string>
+    <string name="AlbertaMission">In partnership with our community we advocate for, provide leadership, and are committed to providing accessible, comprehensive, integrated and coordinated health services.</string>
+    <string name="BaycrestMission">Baycrest is an academic health sciences centre that provides an exemplary care experience for older adults across a variety of institutional and community based settings. We are devoted to improving the quality of life of older adults everywhere through the integration and application of exceptional healthcare, wellness promotion, research, and educational activities.</string>
+
+</resources>

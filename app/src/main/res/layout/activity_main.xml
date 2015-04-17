@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity"
+    android:id="@+id/layout" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Enter Your Charity Name"
+        android:id="@+id/textView"
+        android:layout_marginTop="51dp"
+
+        android:layout_below="@+id/textView12"
+        android:layout_centerHorizontal="true" />
+
+    <com.ebookfrenzy.charityapp.CustomAutoCompleteView
+        android:id="@+id/myautocomplete"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter your charity name here"
+        android:completionThreshold="1"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+    </com.ebookfrenzy.charityapp.CustomAutoCompleteView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="30 Most Popular Charity in Canada"
+        android:id="@+id/textView12"
+        android:layout_marginTop="79dp"
+        android:textStyle="bold"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+
+</RelativeLayout>
